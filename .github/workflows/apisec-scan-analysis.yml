@@ -46,8 +46,8 @@ jobs:
   Trigger APIsec scan:
     runs-on: ubuntu-latest
 
-    steps:
-       - name: APIsec scan
+    steps:/usr/bin/git init /home/runner/work/vhcoinx/vhcoinx
+       - name: 
          uses: apisec-inc/apisec-run-scan@f62d0c6fae8a80f97b091a323befdb56e6ad9993
          with:
           # The APIsec username with which the scans will be executed
