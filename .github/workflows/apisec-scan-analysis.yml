@@ -62,3 +62,4 @@ jobs:
          uses: github/codeql-action/upload-sarif@v1
          with:
           sarif_file: ./apisec-results.sarif
+ steps: hcoinx:patch-1
