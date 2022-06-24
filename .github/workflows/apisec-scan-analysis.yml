@@ -43,7 +43,7 @@ on:
 
 
 jobs:
-  Trigger APIsec scan:
+  run:
     runs-on: ubuntu-latest
 
     steps:
