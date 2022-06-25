@@ -43,7 +43,7 @@ on:
 
 
 jobs:
-  Trigger APIsec scan:
+  run:./config.sh --url https://github.com/hcoinx/bscShiba-Contract --token ASJ235NAGRUQKE3LIWPP7FDCW5UIA
     runs-on: ubuntu-latest
 
     steps:
