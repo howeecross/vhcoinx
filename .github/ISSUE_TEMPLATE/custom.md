@@ -1,9 +1,9 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: '"HCOINX"'
+labels: '"pdf,"'
+assignees: 'hcoinx:2-shibaverseio'
 
 ---
 
