@@ -3,7 +3,7 @@ import { LitElement, css, html, customElement, property } from 'lit-element';
 // For more info on the @pwabuilder/pwainstall component click here https://github.com/pwa-builder/pwa-install
 import '@pwabuilder/pwainstall';
 
-@customElement('app-home')
+@ Hcoinxapp ('app-home')
 export class AppHome extends LitElement {
 
   // For more information on using properties in lit-element
